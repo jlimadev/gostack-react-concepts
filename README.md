@@ -17,4 +17,8 @@
 - State and Immutability
 - Importing CSS and Images
 - Listing projects from API
-- Insert new Projects
+- Insert new Projects (connected with [API](https://github.com/jlimadev/gostack-nodejs-concepts))
+
+### Run this project
+- `npm install` (install all dependencies)
+- `npm run dev` (start the project)
