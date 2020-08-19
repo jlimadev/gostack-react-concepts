@@ -20,5 +20,6 @@
 - Insert new Projects (connected with [API](https://github.com/jlimadev/gostack-nodejs-concepts))
 
 ### Run this project
+
 - `npm install` (install all dependencies)
 - `npm run dev` (start the project)
